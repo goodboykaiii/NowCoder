@@ -1,0 +1,11 @@
+2020-08-07 18:39:32.506  INFO 13916 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on DESKTOP-CV2T190 with PID 13916 (started by Kai in D:\Tools\IntelliJ IDEA 2020.1.2\Projects\community\community)
+2020-08-07 18:39:32.509 DEBUG 13916 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-07 18:39:32.510  INFO 13916 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-08-07 18:39:34.813  INFO 13916 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-07 18:39:34.946  INFO 13916 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-08-07 18:39:35.336  INFO 13916 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 3.318 seconds (JVM running for 4.491)
+2020-08-07 18:39:35.657 DEBUG 13916 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2020-08-07 18:39:35.658  INFO 13916 --- [main] com.nowcoder.community.LoggerTests       : info log
+2020-08-07 18:39:35.658  WARN 13916 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2020-08-07 18:39:35.658 ERROR 13916 --- [main] com.nowcoder.community.LoggerTests       : error log
+2020-08-07 18:39:35.676  INFO 13916 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
